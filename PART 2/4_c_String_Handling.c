@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdio.h>
+
 int main() {
 char s1[100] = "programming ", s2[] = "is programming";
 int length, j;
